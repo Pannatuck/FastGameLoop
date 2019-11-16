@@ -1,0 +1,9 @@
+E:\Programming\CsharpRepo\gameDevelopingStudy\testing_1\GameLoop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Programming\CsharpRepo\gameDevelopingStudy\testing_1\GameLoop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Programming\CsharpRepo\gameDevelopingStudy\testing_1\GameLoop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Programming\CsharpRepo\gameDevelopingStudy\testing_1\GameLoop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Programming\CsharpRepo\gameDevelopingStudy\testing_1\GameLoop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Programming\CsharpRepo\gameDevelopingStudy\testing_1\GameLoop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Programming\CsharpRepo\gameDevelopingStudy\testing_1\GameLoop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Programming\CsharpRepo\gameDevelopingStudy\testing_1\GameLoop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Programming\CsharpRepo\gameDevelopingStudy\testing_1\GameLoop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
